@@ -6,6 +6,17 @@ background: linear-gradient(180deg, rgba(255,255,255,1) 2%, rgba(0,0,0,0.5130427
 
 }
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+
+*{
+  font-family: 'Mukta', sans-serif;
+}
+
+
+
+
 .main-header {
 
 background-image: url(../images/dos\ fondo.png);
